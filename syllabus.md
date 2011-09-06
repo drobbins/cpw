@@ -1,7 +1,7 @@
-Title: Computers, Programming, and the Web
-Author: David E. Robbins
-Copyright: 2011, David E. Robbins
-CSS: style.css
+Title     : Computers, Programming, and the Web
+Author    : David E. Robbins
+Copyright : 2011, David E. Robbins
+CSS       : style.css
 
 ## Computer Science + Web
 
