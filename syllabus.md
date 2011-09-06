@@ -1,16 +1,21 @@
 Title: Computers, Programming, and the Web
 Author: David E. Robbins
 Copyright: 2011, David E. Robbins
+CSS: style.css
 
 ## Computer Science + Web
 
-Instructor:     Mr. Robbins
-    robbins.david@gmail.com | Skype: robbins.david
+Instructor
+:  Mr. Robbins
+:  robbins.david@gmail.com
+:  Skype: robbins.david
 
-Meeting Time:  1:40-2:30 (lectures M,W,F; lab T,Th)
-    Charger Hall 1
+Meeting Time
+:  1:40-2:30 (lectures M,W,F; lab T,Th)
+:  Charger Hall 1
 
-Course Site:  https://sites.google.com/site/ccsrobbins/computer-science-web
+Course Site
+:  https://sites.google.com/site/ccsrobbins/computer-science-web
 
 Texts
 :  [Eloquent Javascript](http://eloquentjavascript.net)
@@ -27,18 +32,18 @@ Your goal must include making something. Sometimes this is called a project, but
 
 ### Grading
 
-| Letter | Percentage | Total Points (out of 1000) |
+|Letter  |Percentage  |Total Points (out of 1000)  |
 |:------:|:----------:|:--------------------------:|
-| A      | 90+        | >900                       |
-| B      | 89-80      | 890-80                     |
-| C      | 79-70      | 790-70                     |
-| D      | 69-60      | 690-60                     |
-| F      | 59-        | <590                       |
-[GradingTable]
+|A       |90+         |900                         |
+|B       |89-80       |890-80                      |
+|C       |79-70       |790-70                      |
+|D       |69-60       |690-60                      |
+|F       |59-         |590                         |
+[GradingTable]()
 
-Weekly Assignments (20): 25 pts (2.5%) each
-Project: 500 pts (50%)
-Total Points: 1000 (100%)
+Weekly Assignments (20) : 25 pts (2.5%) each
+Project                 : 500 pts (50%)
+Total Points            : 1000 (100%)
 
 Bonus points may be offered if the instructor is merciful. If offered, bonuses will be announced and offered to the entire class.
 
@@ -70,13 +75,13 @@ During lab hours, I will most likely be online on Skype and Google+. Feel free t
 * Write an app for Chrome or Facebook
 * Write a SMART Platforms app
 * Become a contributor to an open source project
-* or start one (e.g. a jQuery plugin)
+  * or start one (e.g. a jQuery plugin)
 * Build your own web page (at your own domain)
 * Learn a programming language your instructor doesn't know
-* e.g. [Learn you a Haskell](http://learnyouahaskell.com/chapters)
-* Respond to a request for startup (http://ycombinator.com/rfs.html)
+  * e.g. [Learn you a Haskell](http://learnyouahaskell.com/chapters)
+* Respond to a [request for startup](http://ycombinator.com/rfs.html)
 * Build that website or app you always wish existed
-* Read and understand SCIP (http://mitpress.mit.edu/sicp/full-text/book/book.html)
+* Read and understand [SCIP](http://mitpress.mit.edu/sicp/full-text/book/book.html)
 
 #### Default Goals
 
@@ -87,13 +92,10 @@ These are what you have to do if you can't think of anything better that interes
 * Creation of 2-5 page portfolio demonstrating learning in this class and others.
 * Ability to independently create modern (i.e. interactive) web content.
 * Ability to discuss fundamental programming concepts, and use them in several languages
-  * Literal Values
-  * Types
-  * Variables
-  * Functions
-  * Objects
-  * Arrays
-  * Control Structures
-    * If
-    * While, Do
-    * For
+    * Literal Values
+    * Types
+    * Variables
+    * Functions
+    * Objects
+    * Arrays
+    * Control Structures (e.g. if, while, for)
