@@ -2,14 +2,14 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://drobbins.github.com/cpw
+title: Computers, Programming, and Web
+subtitle: A course about the good kind of hacking
+author: David E. Robbins
 simple_search: http://google.com/search
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss: cpw/atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
@@ -19,14 +19,14 @@ email:
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /
+root: /cpw
 permalink: /blog/:year/:month/:day/:title/
 source: source
-destination: public
+destination: public/cpw
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
-markdown: rdiscount
+markdown: kramdown
 pygments: false # default python pygments have been replaced by pygments.rb
 
 paginate: 10          # Posts per page on the blog index
@@ -79,3 +79,17 @@ disqus_short_name:
 
 # Google Analytics
 google_analytics_tracking_id:
+
+kramdown:
+  auto_ids: true,
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+  coderay:
+    coderay_wrap: div
+    coderay_line_numbers: inline
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: style
