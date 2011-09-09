@@ -1,3 +1,7 @@
+# What's is this?
+
+Source code for the Octopress version of my [Computers, Programming, and Web course](http://drobbins.github.com/cpw).
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
