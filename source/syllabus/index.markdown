@@ -9,13 +9,13 @@ footer: true
 
 ## Computer Science + Web
 
-|:---        |:-                                                              |
+|:-----------|:---------------------------------------------------------------|
 |Instructor  |Mr. Robbins                                                     |
 |            |robbins.david@gmail.com                                         |
 |            |Skype: robbins.david                                            |
 |Meeting Time|1:40-2:30 (lectures M,W,F; lab T,Th)                            |
 |            |Charger Hall 1                                                  |
-|Course Site |https://sites.google.com/site/ccsrobbins/computer-science-web   |
+|Course Site |(https://sites.google.com/site/ccsrobbins/computer-science-web) |
 |Texts       |[Eloquent Javascript](http://eloquentjavascript.net)            |
 |            |[jQuery Fundamentals](http://jqfundamentals.com/book/index.html)|
 
@@ -32,7 +32,7 @@ Your goal must include making something. Sometimes this is called a project, but
 
 |----------+--------------+------------------------------|
 | Letter   | Percentage   | Total Points (out of 1000)   |
-|:--------:|:------------:|:----------------------------:|
+|:---------|:-------------|:-----------------------------|
 | A        | 90+          | 900                          |
 | B        | 89-80        | 890-80                       |
 | C        | 79-70        | 790-70                       |
